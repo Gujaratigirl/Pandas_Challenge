@@ -2,7 +2,7 @@
 I worked on 'Heroes of Pymoli'
 
 ##Progress
-#1-Complete
+##1-Complete
 #2-Complete
 #3-Complete
 #4-Complete - This has a rounding error. I can't get the '0' to show up for Female average price.  I attemped round but didn't help.
